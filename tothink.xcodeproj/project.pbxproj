@@ -14,7 +14,6 @@
 		B92BEF7F1B4D61D2002DA56D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B92BEF7E1B4D61D2002DA56D /* Images.xcassets */; };
 		B92BEF821B4D61D2002DA56D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B92BEF801B4D61D2002DA56D /* LaunchScreen.xib */; };
 		B92BEF8E1B4D61D2002DA56D /* tothinkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92BEF8D1B4D61D2002DA56D /* tothinkTests.swift */; };
-		B92BEF981B4D6353002DA56D /* other.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92BEF971B4D6353002DA56D /* other.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +38,6 @@
 		B92BEF871B4D61D2002DA56D /* tothinkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tothinkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B92BEF8C1B4D61D2002DA56D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B92BEF8D1B4D61D2002DA56D /* tothinkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tothinkTests.swift; sourceTree = "<group>"; };
-		B92BEF971B4D6353002DA56D /* other.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = other.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,7 +86,6 @@
 				B92BEF801B4D61D2002DA56D /* LaunchScreen.xib */,
 				B92BEF761B4D61D2002DA56D /* tothink.xcdatamodeld */,
 				B92BEF721B4D61D2002DA56D /* Supporting Files */,
-				B92BEF971B4D6353002DA56D /* other.swift */,
 			);
 			path = tothink;
 			sourceTree = "<group>";
@@ -218,7 +215,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B92BEF981B4D6353002DA56D /* other.swift in Sources */,
 				B92BEF7A1B4D61D2002DA56D /* ViewController.swift in Sources */,
 				B92BEF751B4D61D2002DA56D /* AppDelegate.swift in Sources */,
 				B92BEF781B4D61D2002DA56D /* tothink.xcdatamodeld in Sources */,
